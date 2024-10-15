@@ -4,6 +4,10 @@
 
 Студент: Васильев Г.М.
 
+**ссылка на работу в google colab:**
+
+"https://colab.research.google.com/drive/1ynWp6sP8uivpBwBmv1kqL7Ra6v75zpM4?usp=drive_link"
+
 Вариант:
 
 3 % 16 + 1 = 4
