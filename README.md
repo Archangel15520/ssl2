@@ -29,7 +29,7 @@ message — текст сообщения.
 
 **Пример логов в файле HDFS_2k.log**
 
-![image]()
+![image](https://github.com/Archangel15520/ssl2/blob/main/screenshot/1.JPG)
 
 **2. Парсинг лога и сохранение в СУБД**
 
@@ -77,7 +77,7 @@ conn.close()
 log_df.head()
 ```
 
-![image]()
+![image](https://github.com/Archangel15520/ssl2/blob/main/screenshot/2.JPG)
 
 **3. Нормализация логов**
 
@@ -130,9 +130,9 @@ plt.ylabel('Количество')
 plt.show()
 ```
 
-![image]()
+![image](https://github.com/Archangel15520/ssl2/blob/main/screenshot/3.JPG)
 
-![image]()
+![image](https://github.com/Archangel15520/ssl2/blob/main/screenshot/4.JPG)
 
 **Вывод:**
 
